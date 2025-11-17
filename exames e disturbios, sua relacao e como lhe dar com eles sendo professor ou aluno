@@ -1,13 +1,16 @@
 <!doctype html>
-<hrml>
+<html>
   <head>
-    <meta charset= "utf-8" />
-    <disturbios e exames> My GitHub Pages Sites<disturbios e exames>
-  <head>
+    <meta charset="utf-8" />
+    <title>Distúrbios e Exames</title>
+  </head>
   <body>
-    <h1> welcome to my site<h1>
-<p>disturbios de aprendizagem ou problemas de aprendizagem: um dos principais motivos para nao se dar bem nos exames
-
-voce ja ouviu falar em problemas de aprendizagem? provavelmente sim! Mas, se voce respondeu: "nao", mas esta curioso para saber o que e, fique comigo e preste bastante atencao.</P>
+    <h1>Bem-vindo ao meu site</h1>
+    <p>
+      Dificuldades de aprendizagem: uma das principais razões para não se obter bons resultados nos exames.
+    </p>
+    <p>
+      Já ouviste falar em dificuldades de aprendizagem? Provavelmente sim! Mas, se respondeste "não" e estás curioso para saber o que são, fica comigo e presta bastante atenção.
+    </p>
   </body>
 </html>
